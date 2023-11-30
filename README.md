@@ -48,12 +48,17 @@
 * [Destini App](https://github.com/aakashn06/destini_app_challenge)
 
 
-## App 9: BMI Calculator - Building Flutter UIs for Intermediates
-### Work in Progress
+## App 9: BMI Calculator - Building Body Mass Index Calculator 
+### Created multi-page apps using Flutter Routes and Navigator. Extract and refactor Flutter Widgets with a click of a button.
+### Learn about composition vs. inheritance and the Flutter way of creating custom UI
 
+* [BMI_Calculator App](https://github.com/aakashn06/bmi_calculator_app)
 
+## App 10: Climate App - Get live weather data in the current location of the device as well as the weather for any city you can think of!
+### The objective of this module is to learn about asynchronous programming in Dart. I learned how to carry out time-consuming tasks such as getting device location and networking to get data from the internet
+### Learn about composition vs. inheritance and the Flutter way of creating custom UI
 
-
+* [Clima App](https://github.com/aakashn06/clima_app)
 
 
 
